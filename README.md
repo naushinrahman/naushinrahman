@@ -1,6 +1,6 @@
 ## Welcome to my github! I'm Naushin ✨
 
-https://leetcard.jacoblin.cool/user9910Jp
+ <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
 <!--
 **naushinrahman/naushinrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
