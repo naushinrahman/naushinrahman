@@ -1,4 +1,9 @@
-## Welcome to my github! I'm Naushin ✨
+<h1 align="center"> Welcome to my github! I'm Naushin ✨ </h1>
+
+I'm a programmer!
+
+Follow me on:
+[LinkedIn]("https://www.linkedin.com/in/n-rahman-profile/") 
 
  <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
 <!--
