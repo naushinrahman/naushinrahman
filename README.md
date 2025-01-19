@@ -2,8 +2,7 @@
 
 I'm a programmer!
 
-Follow me on:
-[LinkedIn]("https://www.linkedin.com/in/n-rahman-profile/") 
+Follow me on [LinkedIn](https://www.linkedin.com/in/n-rahman-profile) 
 
  <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
 <!--
