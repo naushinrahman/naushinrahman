@@ -4,8 +4,9 @@ I'm a programmer!
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/n-rahman-profile) 
 
- <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
 <!--
+ <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
+
 **naushinrahman/naushinrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
