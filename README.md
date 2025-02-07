@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my github! I'm Naushin ✨ </h1>
 
-I'm a former life science major turned programmer. 
-Im interested in machine learning and big data
+- I'm a former life science major turned programmer. 
+- i'm also an aspiring swe with interest in machine learning, and big data
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/n-rahman-profile)
 
