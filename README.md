@@ -5,7 +5,7 @@ Im interested in machine learning and big data
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/n-rahman-profile)
 
- <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
+ <img class="img" src="https://leetcard.jacoblin.cool/naushin13?theme=dark" />
 
 <!--
 **naushinrahman/naushinrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
