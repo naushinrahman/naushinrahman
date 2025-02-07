@@ -1,12 +1,13 @@
 <h1 align="center"> Welcome to my github! I'm Naushin ✨ </h1>
 
-I'm a programmer!
+I'm a former life science major turned programmer. 
+Im interested in machine learning and big data
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/n-rahman-profile) 
+Connect with me on [LinkedIn!](https://www.linkedin.com/in/n-rahman-profile)
 
-<!--
  <img class="img" src="https://leetcard.jacoblin.cool/user9910Jp?theme=dark" />
 
+<!--
 **naushinrahman/naushinrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
