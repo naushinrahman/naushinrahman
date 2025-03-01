@@ -1,8 +1,9 @@
 <h1 align="center"> Welcome to my github! I'm Naushin ✨ </h1>
 
 <div align="center">
-<p>I'm a former life science major turned programmer</p> 
-<p>I'm also an aspiring swe with interest in machine learning, and big data</p>
+<p>im trying to become an expert at coding</p>
+
+<p>check out some of my projects</p>
 
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/n-rahman-profile)
 
