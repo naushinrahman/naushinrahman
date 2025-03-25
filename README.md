@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my github! I'm Naushin ✨ </h1>
 
 <div align="center">
-<p>im trying to become an expert at coding</p>
+<p>come follow my coding journey!</p>
 
 <p>check out some of my projects</p>
 
